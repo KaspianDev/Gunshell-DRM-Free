@@ -27,4 +27,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
        name: Gunshell
-       path: ./build/libs/Gunshell-*.jar
+       path: ./target/Gunshell-*.jar
